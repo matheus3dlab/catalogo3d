@@ -8,7 +8,7 @@ const products = [
 
     images: [
       "img/flordelis1.png",
-      "img/fdl2.png",
+      "img/fdl2.PNG",
       "img/fdl3.png",
       "img/fdl4.png",
       "img/fdl5.png"
